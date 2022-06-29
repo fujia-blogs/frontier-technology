@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-  <h1>@fujia/nodejs</h1>
+  <h1>@fujia/frontier-technology</h1>
 </div>
 
 <div align="center">
 
-Summarize the knowledge points related to node.js
+Summarize the knowledge points related to frontier technology.
 
 </div>
