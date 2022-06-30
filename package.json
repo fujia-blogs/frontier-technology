@@ -1,7 +1,7 @@
 {
   "name": "frontier-technology",
   "version": "1.0.0",
-  "description": "Summarize the knowledge points related to node.js",
+  "description": "Summarize the knowledge points related to frontier technology",
   "scripts": {
     "prepare": "husky install"
   },
